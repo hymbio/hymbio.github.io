@@ -11,6 +11,7 @@ window.onload = () => {
     "25": "gizelle",
     "32": "dj marcinho",
 	"28": "stefany",
+	"42": "jaik",
     "33": "adrielle"
   };
 
