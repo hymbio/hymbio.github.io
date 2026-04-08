@@ -13,6 +13,8 @@ window.onload = () => {
 	"28": "stefany",
 	"09": "cristiane",
 	"14": "cristiane",
+	"02": "beijamira",
+	"24": "beijamira",
 	"42": "jaik",
     "33": "adrielle"
   };
